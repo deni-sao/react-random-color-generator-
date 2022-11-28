@@ -1,4 +1,4 @@
-import './App.css';
+import ''
 import randomColor from 'randomcolor';
 import { useState } from 'react';
 
